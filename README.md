@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @shreyashkharat
+- 👋 Hi, I’m Shreyash Balaji Rao Kharat.
+- 📖 Bachelor of Mathematics(Hons.) at Indian Stastitical Institute, Bangalore.
 - 👀 I’m interested in Mathematics.
 - 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML projects.
 - 📫 Reach me by mail at shreyash.kharat41@gmail.com
 
 <!---
