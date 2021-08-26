@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Shreyash Balaji Rao Kharat.
 - 📖 Bachelor of Mathematics(Hons.) at Indian Stastitical Institute, Bangalore.
-- 👀 I’m interested in Mathematics.
-- 🌱 I’m currently learning ML.
+- 👍 My skills include C(Programming Language), Machine Learning.
+- 👀 I’m interested in Mathematics, Machine Learning, Probability Theory, Stochastic Processes.
+- 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 Reach me by mail at shreyash.kharat41@gmail.com
 
