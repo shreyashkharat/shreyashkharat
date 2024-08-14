@@ -1,4 +1,4 @@
- **Currently inactive, for enquiries regarding current projects reach out via above mail. Thanks!**
+ **Currently inactive, for enquiries regarding current projects reach out via below mail. Thanks!**
 - 👋 Hi, I’m Shreyash Balaji Rao Kharat.
 - 📖 Bachelor of Mathematics(Hons.) at Indian Stastitical Institute, Bangalore.
 - 👍 My skills include Machine Learning, Deep Learning, NLP, Image Processing, Casual Inferencing, Audio Processing, Classical ML Algorithms.
